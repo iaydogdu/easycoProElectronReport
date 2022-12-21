@@ -1,0 +1,10 @@
+directories:
+  output: electron-build
+  buildResources: build-assets
+appId: com.ibaysoft.easycoProElectronReport
+productName: easycoProElectronReport
+win:
+  publish:
+    - github
+files: []
+electronVersion: 22.0.0
